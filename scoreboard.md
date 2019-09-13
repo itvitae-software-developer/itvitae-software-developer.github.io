@@ -1,8 +1,8 @@
 
-## Better Code Hub score
+## Better Code Hub scores
 
 
-Not on the scoreboard? Create a PR with the code for your BCH badge
+Not on the board? Create a PR and add the code for your BCH badge
 
 
 | Developer  | Score   | Developer  | Score  |
