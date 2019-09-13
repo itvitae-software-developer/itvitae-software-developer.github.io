@@ -10,9 +10,10 @@ Fast forward a few months. You present your end product, maybe get some backing 
 ![The only valid measurement of code quality](wtfsperminute.png)
 
 ### The Better Code Hub team is here to help
-Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out IT Vitae:
+Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out IT Vitae by providing Better Code Hub for Free:
 
-__: Getting the basics right__: [Better Code Hub](https://bettercodehub.com) provides a set of 10 basic rules to keep your code maintainable. Can you get a 10/10 score? [Last year at a Hackathon, 19 teams did it](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5) (that’s 30%). So you can, too. Following these guidelines will go a long way in keeping your code easy to maintain in the long run as well.
+## Getting the basics right
+[Better Code Hub](https://bettercodehub.com) provides a set of 10 basic rules to keep your code maintainable. Can you get a 10/10 score? [Last year at a Hackathon, 19 teams did it](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5) (that’s 30%). So you can, too. Following these guidelines will go a long way in keeping your code easy to maintain in the long run as well.
 
 It’s good to know we didn’t just make this up. All the data and thresholds in our measurements compare your code against thousands of other systems we’ve seen over the past 19 years. If you pass a guideline, it means you’re doing better than the average developer out there. It’s science!
 
