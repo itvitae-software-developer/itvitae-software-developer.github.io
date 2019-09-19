@@ -1,5 +1,6 @@
 ## Code quality? It really matters!
 
+
 ### A software engineering tale as old as time
 So, let’s say you’re part of the group of IT Vitae students. Awesome! But let’s pause for a moment and think about tomorrow.
 
@@ -9,8 +10,10 @@ Fast forward a few months. You present your end product, maybe get some backing 
 
 ![The only valid measurement of code quality](wtfsperminute.png)
 
+
 ### The Better Code Hub team is here to help
 Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out IT Vitae by providing Better Code Hub for Free.
+
 
 ## Getting the basics right
 [Better Code Hub](https://bettercodehub.com) provides a set of 10 basic rules to keep your code maintainable. Can you get a 10/10 score? [Last year at a Hackathon, 19 teams did it](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5) (that’s 30%). So you can, too. Following these guidelines will go a long way in keeping your code easy to maintain in the long run as well.
