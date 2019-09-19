@@ -1,4 +1,4 @@
-## Code quality matters
+## Code quality matters!
 
 ### A software engineering tale as old as time
 So, let’s say you’re part of the group of IT Vitae students. Awesome! But let’s pause for a moment and think about tomorrow.
