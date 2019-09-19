@@ -25,4 +25,6 @@ It’s good to know we didn’t just make this up. All the data and thresholds i
 
 You can find the IT Vitae scoreboard [here](https://itvitae-software-developer.github.io/scoreboard)
 
-happy coding ! [Michiel Cuijpers](https://github.com/michielcuijpers)
+happy coding! 
+
+[Michiel Cuijpers](https://github.com/michielcuijpers)
