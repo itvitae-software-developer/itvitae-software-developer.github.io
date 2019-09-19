@@ -12,7 +12,7 @@ Fast forward a few months. You present your end product, maybe get some backing 
 
 
 ### The Better Code Hub team is here to help
-Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out IT Vitae by providing Better Code Hub for Free.
+Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out [IT Vitae](https://itvitae.nl) by providing Better Code Hub for Free.
 
 
 ## Getting the basics right
