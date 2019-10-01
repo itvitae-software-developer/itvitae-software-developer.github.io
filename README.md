@@ -2,7 +2,7 @@
 
 
 ### A software engineering tale as old as time.
-So, let’s say you’re part of the group of ITVitae students. Awesome! But let’s pause for a moment and think about tomorrow.
+So, let’s say you’re part of the group of ITvitae students. Awesome! But let’s pause for a moment and think about tomorrow.
 
 Tomorrow is the day you have to build further with today’s code. You know how it goes. Last night’s mistakes get thrown right in your face. You might utter words like: "Who wrote this code, I can’t work like this?!, only to realize that it was actually YOU. You hack some more until it sort of works… you think… hope… pray… maybe... for now...
 
@@ -12,7 +12,7 @@ Fast forward a few months. You present your end product, maybe get some backing 
 
 
 ### The Better Code Hub team is here to help.
-Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out [ITVitae](https://itvitae.nl) by providing Better Code Hub for Free.
+Of course, this doom scenario is mostly an exaggeration, but more often than you might think, it’s the bitter reality. That’s why we at [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe that a little bit of effort now will save a lot of headaches down the road. And we’re helping out [ITvitae](https://itvitae.nl) by providing Better Code Hub for Free.
 
 
 ## Getting the basics right.
@@ -23,7 +23,7 @@ It’s good to know we didn’t just make this up. All the data and thresholds i
 ![10 Guidelines](10guidelines.png)
 
 
-You can find the ITVitae scoreboard [here](https://itvitae-software-developer.github.io/scoreboard)
+You can find the ITvitae scoreboard [here](https://itvitae-software-developer.github.io/scoreboard)
 
 happy coding! 
 
